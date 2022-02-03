@@ -1,0 +1,21 @@
+table{
+    width: auto;
+    border-spacing: 01px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+h1 {
+    text-align: center;
+    color: rgb(4, 1, 18);
+}
+th{
+    text-align:justify;
+    background-color:rgb(67, 171, 175);
+    border: 1px solid#000;
+    text-shadow: red;
+}
+table, td{
+    border: 1px solid#000;
+    background-color: rgb(238, 231, 199);
+}
+
